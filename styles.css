@@ -1,0 +1,24 @@
+body{
+    background-color: chartreuse;
+    color: red;
+}
+h1{
+    color: cadetblue;
+    font-style: italic;
+    text-align: center;
+}
+.secondDiv{
+    background-color: blue;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+button{
+    cursor: pointer;
+    border: 3px dotted black;
+    padding: 5px;
+}
+button:hover{
+    background-color: black;
+    color: #fff;
+}
